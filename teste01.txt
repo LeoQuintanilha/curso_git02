@@ -1,1 +1,2 @@
 Este é um teste.
+Esta é mais uma alteração no meu arquivo.
